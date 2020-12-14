@@ -5,5 +5,12 @@
     "family": "Zen3",
     "name": "Zen3_CCD",
     "url": "https://misdake.github.io/ChipAnnotationData5/Zen3_CCD"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Ampere",
+    "name": "GA102",
+    "url": "https://misdake.github.io/ChipAnnotationData/GA102"
   }
 ]
