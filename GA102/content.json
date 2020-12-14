@@ -3,7 +3,7 @@
   "type": "GPU",
   "family": "Ampere",
   "name": "GA102",
-  "githubRepo": "misdake/ChipAnnotationData",
+  "githubRepo": "misdake/ChipAnnotationData5",
   "githubIssueId": 2,
   "source": "https://www.flickr.com/photos/130561288@N04/50715462966",
   "createTime": "Dec 14, 2020 1:31:04 AM",
