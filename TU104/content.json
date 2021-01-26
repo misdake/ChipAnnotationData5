@@ -2,7 +2,7 @@
   "vendor": "nVIDIA",
   "type": "GPU",
   "family": "Turing",
-  "name": "TU104_2",
+  "name": "TU104",
   "githubRepo": "misdake/ChipAnnotationData5",
   "githubIssueId": 3,
   "source": "https://www.flickr.com/photos/130561288@N04/50867163908",
