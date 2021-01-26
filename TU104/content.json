@@ -1,0 +1,48 @@
+{
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Turing",
+  "name": "TU104",
+  "githubRepo": "misdake/ChipAnnotationData5",
+  "githubIssueId": 3,
+  "source": "https://www.flickr.com/photos/130561288@N04/50867163908",
+  "createTime": "Jan 26, 2021 12:44:56 AM",
+  "width": 21469,
+  "height": 19872,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 42,
+      "yMax": 39
+    },
+    {
+      "level": 1,
+      "xMax": 21,
+      "yMax": 20
+    },
+    {
+      "level": 2,
+      "xMax": 11,
+      "yMax": 10
+    },
+    {
+      "level": 3,
+      "xMax": 6,
+      "yMax": 5
+    },
+    {
+      "level": 4,
+      "xMax": 3,
+      "yMax": 3
+    },
+    {
+      "level": 5,
+      "xMax": 2,
+      "yMax": 2
+    }
+  ],
+  "widthMillimeter": 24.496,
+  "heightMillimeter": 22.69
+}

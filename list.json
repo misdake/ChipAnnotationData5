@@ -12,5 +12,12 @@
     "family": "Ampere",
     "name": "GA102",
     "url": "https://misdake.github.io/ChipAnnotationData5/GA102"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Turing",
+    "name": "TU104",
+    "url": "https://misdake.github.io/ChipAnnotationData5/TU104"
   }
 ]
