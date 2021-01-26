@@ -18,6 +18,7 @@
     "type": "GPU",
     "family": "Turing",
     "name": "TU104_2",
+    "listname": "TU104",
     "url": "https://misdake.github.io/ChipAnnotationData5/TU104"
   }
 ]
