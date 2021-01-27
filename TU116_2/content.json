@@ -1,0 +1,48 @@
+{
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Turing",
+  "name": "TU116_2",
+  "githubRepo": "misdake/ChipAnnotationData5",
+  "githubIssueId": 5,
+  "source": "https://www.flickr.com/photos/130561288@N04/50867813341",
+  "createTime": "Jan 27, 2021 4:51:18 AM",
+  "width": 19671,
+  "height": 11248,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 39,
+      "yMax": 22
+    },
+    {
+      "level": 1,
+      "xMax": 20,
+      "yMax": 11
+    },
+    {
+      "level": 2,
+      "xMax": 10,
+      "yMax": 6
+    },
+    {
+      "level": 3,
+      "xMax": 5,
+      "yMax": 3
+    },
+    {
+      "level": 4,
+      "xMax": 3,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 2,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 22.46,
+  "heightMillimeter": 12.845
+}
