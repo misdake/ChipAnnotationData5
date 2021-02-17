@@ -7,6 +7,13 @@
     "url": "https://misdake.github.io/ChipAnnotationData5/Zen3_CCD"
   },
   {
+    "vendor": "Sony",
+    "type": "",
+    "family": "",
+    "name": "PS5",
+    "url": "https://misdake.github.io/ChipAnnotationData5/PS5"
+  },
+  {
     "vendor": "nVIDIA",
     "type": "GPU",
     "family": "Ampere",
@@ -18,7 +25,6 @@
     "type": "GPU",
     "family": "Turing",
     "name": "TU104_2",
-    "listname": "TU104",
     "url": "https://misdake.github.io/ChipAnnotationData5/TU104_2"
   },
   {
@@ -26,7 +32,6 @@
     "type": "GPU",
     "family": "Turing",
     "name": "TU106_2",
-    "listname": "TU106",
     "url": "https://misdake.github.io/ChipAnnotationData5/TU106_2"
   },
   {
@@ -34,7 +39,6 @@
     "type": "GPU",
     "family": "Turing",
     "name": "TU116_2",
-    "listname": "TU116",
     "url": "https://misdake.github.io/ChipAnnotationData5/TU116_2"
   }
 ]
