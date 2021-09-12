@@ -7,14 +7,6 @@
     "url": "https://misdake.github.io/ChipAnnotationData5/Zen3_CCD"
   },
   {
-    "vendor": "Sony",
-    "type": "",
-    "family": "",
-    "name": "PS5",
-    "listname": "PS5(IR)",
-    "url": "https://misdake.github.io/ChipAnnotationData5/PS5"
-  },
-  {
     "vendor": "nVIDIA",
     "type": "GPU",
     "family": "Ampere",
