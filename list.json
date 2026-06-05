@@ -4,7 +4,8 @@
     "type": "CPU",
     "family": "Zen3",
     "name": "Zen3_CCD",
-    "url": "https://misdake.github.io/ChipAnnotationData5/Zen3_CCD"
+    "url": "https://misdake.github.io/ChipAnnotationData5/Zen3_CCD",
+    "listname": "Zen3 CCD"
   },
   {
     "vendor": "nVIDIA",
